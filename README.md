@@ -1,4 +1,4 @@
-# Spirograph Maker
+# Spirograph Maker (`spirograph.exe`)
 
 ## Modes
 
