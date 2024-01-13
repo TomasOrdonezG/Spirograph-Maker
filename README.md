@@ -49,5 +49,5 @@ Enter _Animation Mode_ by pressing `SPACE` when in _Editing Mode_.
 
 | Key   | Action                                         |
 | ----- | ---------------------------------------------- |
-| SPACE | Pauses the animation                           |
+| SPACE | Pauses/unpauses the animation                  |
 | R     | End the animation and switch to _Editing Mode_ |
