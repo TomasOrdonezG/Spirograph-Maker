@@ -35,7 +35,7 @@ You can always add more child nodes to other nodes by holding `LCTRL` while in _
 
 #### Colour Palette
 
-While in _Editing Mode_, on the left hand side of the screen you will se many colours.
+In _Editing Mode_, There is a colour palette located on the left hand side of the screen.
 This palette controls the trail colour that the selected node will have when animated.
 
 #### Speed Slider
