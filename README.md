@@ -6,10 +6,10 @@
 
 This is the mode the program beings in.
 You will be in editing mode to create and edit your spirograph.
-Once your spirograph is created you can click `SPACE` to switch to _Animation mode_ and view your spirograph in action
+Once your spirograph is created you can click `SPACE` to switch to _Animation mode_ and view your spirograph in action.
 
 Select a node:
-Once you have nodes on the screen and in _Editing More_, you can always select a different node to edit. Simply click on the closet node to select it. A node will be highlighted when its in range of being selected next.
+Once you have nodes on the screen and in _Editing Mode_, you can always select a different node to edit. Simply click on the closet node to select it. A node will be highlighted when its in range of being selected next.
 
 | Key         | Action                                                       |
 | ----------- | ------------------------------------------------------------ |
